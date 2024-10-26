@@ -1,0 +1,2 @@
+-- remember to install all the resources --
+npx nodemon index.js   (to start the server)
